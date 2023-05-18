@@ -1,0 +1,4148 @@
+[
+  {
+    "temperament" : [
+      "Active",
+      "Energetic",
+      "Independent",
+      "Intelligent",
+      "Gentle"
+    ],
+    "rex" : false,
+    "life_span" : [
+      14,
+      15
+    ],
+    "id" : "abys",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsAB\/Abyssinian.aspx",
+    "vocalisation" : 1,
+    "natural" : true,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 2,
+    "country_codes" : [
+      "EG"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.",
+    "child_friendly" : 3,
+    "health_issues" : 2,
+    "reference_image_id" : "0XYvRd7oD",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 5,
+    "name" : "Abyssinian",
+    "alt_names" : [
+      ""
+    ],
+    "origin" : [
+      "Egypt"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/abyssinian",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Abyssinian_(cat)",
+    "country_code" : "EG",
+    "energy_level" : 5,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        5
+      ],
+      "imperial" : [
+        7,
+        10
+      ]
+    },
+    "dog_friendly" : 4
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Social",
+      "Intelligent",
+      "Playful",
+      "Active"
+    ],
+    "rex" : false,
+    "life_span" : [
+      9,
+      12
+    ],
+    "id" : "aege",
+    "vocalisation" : 3,
+    "natural" : false,
+    "affection_level" : 4,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "GR"
+    ],
+    "indoor" : false,
+    "description" : "Native to the Greek islands known as the Cyclades in the Aegean Sea, these are natural cats, meaning they developed without humans getting involved in their breeding. As a breed, Aegean Cats are rare, although they are numerous on their home islands. They are generally friendly toward people and can be excellent cats for families with children.",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "ozEvzdVM-",
+    "intelligence" : 3,
+    "adaptability" : 5,
+    "stranger_friendly" : 4,
+    "name" : "Aegean",
+    "alt_names" : [
+      ""
+    ],
+    "origin" : [
+      "Greece"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 4,
+    "grooming" : 3,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/aegean-cat",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Aegean_cat",
+    "country_code" : "GR",
+    "energy_level" : 3,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        5
+      ],
+      "imperial" : [
+        7,
+        10
+      ]
+    },
+    "dog_friendly" : 4
+  },
+  {
+    "temperament" : [
+      "Intelligent",
+      "Interactive",
+      "Lively",
+      "Playful",
+      "Sensitive"
+    ],
+    "rex" : false,
+    "life_span" : [
+      11,
+      15
+    ],
+    "id" : "abob",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsAB\/AmericanBobtail.aspx",
+    "vocalisation" : 3,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "American Bobtails are loving and incredibly intelligent cats possessing a distinctive wild appearance. They are extremely interactive cats that bond with their human family with great devotion.",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "hBXicehMA",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 3,
+    "name" : "American Bobtail",
+    "alt_names" : [
+      ""
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : true,
+    "social_needs" : 3,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/american-bobtail",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/American_Bobtail",
+    "country_code" : "US",
+    "energy_level" : 3,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        7
+      ],
+      "imperial" : [
+        7,
+        16
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Curious",
+      "Intelligent",
+      "Interactive",
+      "Lively",
+      "Playful",
+      "Social"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      16
+    ],
+    "id" : "acur",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsAB\/AmericanCurl.aspx",
+    "vocalisation" : 3,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "Distinguished by truly unique ears that curl back in a graceful arc, offering an alert, perky, happily surprised expression, they cause people to break out into a big smile when viewing their first Curl. Curls are very people-oriented, faithful, affectionate soulmates, adjusting remarkably fast to other pets, children, and new situations.",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "xnsqonbjW",
+    "intelligence" : 3,
+    "adaptability" : 5,
+    "stranger_friendly" : 3,
+    "name" : "American Curl",
+    "alt_names" : [
+      ""
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 3,
+    "grooming" : 2,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/american-curl",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/American_Curl",
+    "country_code" : "US",
+    "energy_level" : 3,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        2,
+        5
+      ],
+      "imperial" : [
+        5,
+        10
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Active",
+      "Curious",
+      "Easy Going",
+      "Playful",
+      "Calm"
+    ],
+    "rex" : false,
+    "life_span" : [
+      15,
+      17
+    ],
+    "id" : "asho",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsAB\/AmericanShorthair.aspx",
+    "vocalisation" : 3,
+    "natural" : true,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The American Shorthair is known for its longevity, robust health, good looks, sweet personality, and amiability with children, dogs, and other pets.",
+    "child_friendly" : 4,
+    "health_issues" : 3,
+    "reference_image_id" : "JFPROfGtQ",
+    "intelligence" : 3,
+    "adaptability" : 5,
+    "stranger_friendly" : 3,
+    "name" : "American Shorthair",
+    "alt_names" : [
+      "Domestic Shorthair"
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 4,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/american-shorthair",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/American_Shorthair",
+    "country_code" : "US",
+    "energy_level" : 3,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        4,
+        7
+      ],
+      "imperial" : [
+        8,
+        15
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Curious",
+      "Gentle",
+      "Intelligent",
+      "Interactive",
+      "Lively",
+      "Loyal",
+      "Playful",
+      "Sensible",
+      "Social"
+    ],
+    "rex" : false,
+    "life_span" : [
+      14,
+      18
+    ],
+    "id" : "awir",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsAB\/AmericanWirehair.aspx",
+    "vocalisation" : 3,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 1,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The American Wirehair tends to be a calm and tolerant cat who takes life as it comes. His favorite hobby is bird-watching from a sunny windowsill, and his hunting ability will stand you in good stead if insects enter the house.",
+    "child_friendly" : 4,
+    "health_issues" : 3,
+    "reference_image_id" : "8D--jCd21",
+    "intelligence" : 3,
+    "adaptability" : 5,
+    "stranger_friendly" : 3,
+    "name" : "American Wirehair",
+    "alt_names" : [
+      ""
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 3,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/american-wirehair",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/American_Wirehair",
+    "country_code" : "US",
+    "energy_level" : 3,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        4,
+        7
+      ],
+      "imperial" : [
+        8,
+        15
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Agile",
+      "Curious",
+      "Independent",
+      "Playful",
+      "Loyal"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      14
+    ],
+    "id" : "amau",
+    "vocalisation" : 1,
+    "natural" : true,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 1,
+    "country_codes" : [
+      "AE"
+    ],
+    "indoor" : false,
+    "description" : "Arabian Mau cats are social and energetic. Due to their energy levels, these cats do best in homes where their owners will be able to provide them with plenty of playtime, attention and interaction from their owners. These kitties are friendly, intelligent, and adaptable, and will even get along well with other pets and children.",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "k71ULYfRr",
+    "intelligence" : 3,
+    "adaptability" : 5,
+    "stranger_friendly" : 3,
+    "name" : "Arabian Mau",
+    "alt_names" : [
+      "Alley cat"
+    ],
+    "origin" : [
+      "United Arab Emirates"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 3,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Arabian_Mau",
+    "country_code" : "AE",
+    "energy_level" : 4,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        4,
+        7
+      ],
+      "imperial" : [
+        8,
+        16
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Lively",
+      "Social",
+      "Fun-loving",
+      "Relaxed",
+      "Affectionate"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      16
+    ],
+    "id" : "amis",
+    "vocalisation" : 3,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "AU"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Australian Mist thrives on human companionship. Tolerant of even the youngest of children, these friendly felines enjoy playing games and being part of the hustle and bustle of a busy household. They make entertaining companions for people of all ages, and are happy to remain indoors between dusk and dawn or to be wholly indoor pets.",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "_6x-3TiCA",
+    "intelligence" : 4,
+    "adaptability" : 5,
+    "stranger_friendly" : 4,
+    "name" : "Australian Mist",
+    "alt_names" : [
+      "Spotted Mist"
+    ],
+    "origin" : [
+      "Australia"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 4,
+    "grooming" : 3,
+    "short_legs" : false,
+    "hairless" : false,
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Australian_Mist",
+    "country_code" : "AU",
+    "energy_level" : 4,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        7
+      ],
+      "imperial" : [
+        7,
+        15
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Intelligent",
+      "Playful"
+    ],
+    "rex" : false,
+    "life_span" : [
+      10,
+      15
+    ],
+    "id" : "bali",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsAB\/Balinese.aspx",
+    "vocalisation" : 5,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "description" : "Balinese are curious, outgoing, intelligent cats with excellent communication skills. They are known for their chatty personalities and are always eager to tell you their views on life, love, and what you’ve served them for dinner. ",
+    "child_friendly" : 4,
+    "health_issues" : 3,
+    "reference_image_id" : "13MkvUreZ",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 5,
+    "name" : "Balinese",
+    "alt_names" : [
+      "Long-haired Siamese"
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 3,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/balinese",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Balinese_(cat)",
+    "country_code" : "US",
+    "energy_level" : 5,
+    "hypoallergenic" : true,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        2,
+        5
+      ],
+      "imperial" : [
+        4,
+        10
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Lively",
+      "Friendly",
+      "Intelligent"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      14
+    ],
+    "id" : "bamb",
+    "vocalisation" : 3,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : true,
+    "shedding_level" : 1,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Bambino is a breed of cat that was created as a cross between the Sphynx and the Munchkin breeds. The Bambino cat has short legs, large upright ears, and is usually hairless. They love to be handled and cuddled up on the laps of their family members.",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "5AdhMjeEu",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 3,
+    "name" : "Bambino",
+    "alt_names" : [
+      ""
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 3,
+    "grooming" : 1,
+    "short_legs" : true,
+    "hairless" : true,
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Bambino_cat",
+    "country_code" : "US",
+    "energy_level" : 5,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        2,
+        4
+      ],
+      "imperial" : [
+        4,
+        9
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Alert",
+      "Agile",
+      "Energetic",
+      "Demanding",
+      "Intelligent"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      15
+    ],
+    "id" : "beng",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsAB\/Bengal.aspx",
+    "vocalisation" : 5,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "lap" : false,
+    "description" : "Bengals are a lot of fun to live with, but they're definitely not the cat for everyone, or for first-time cat owners. Extremely intelligent, curious and active, they demand a lot of interaction and woe betide the owner who doesn't provide it.",
+    "child_friendly" : 4,
+    "health_issues" : 3,
+    "reference_image_id" : "O3btzLlsO",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 3,
+    "name" : "Bengal",
+    "bidability" : 3,
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/bengal",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Bengal_(cat)",
+    "country_code" : "US",
+    "cat_friendly" : 4,
+    "energy_level" : 5,
+    "hypoallergenic" : true,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        7
+      ],
+      "imperial" : [
+        6,
+        12
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Active",
+      "Gentle",
+      "Social"
+    ],
+    "rex" : false,
+    "life_span" : [
+      14,
+      15
+    ],
+    "id" : "birm",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsAB\/Birman.aspx",
+    "vocalisation" : 1,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "FR"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Birman is a docile, quiet cat who loves people and will follow them from room to room. Expect the Birman to want to be involved in what you’re doing. He communicates in a soft voice, mainly to remind you that perhaps it’s time for dinner or maybe for a nice cuddle on the sofa. He enjoys being held and will relax in your arms like a furry baby.",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "HOrX5gwLS",
+    "intelligence" : 3,
+    "adaptability" : 5,
+    "stranger_friendly" : 3,
+    "name" : "Birman",
+    "alt_names" : [
+      "Sacred Birman",
+      "Sacred Cat Of Burma"
+    ],
+    "origin" : [
+      "France"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 4,
+    "grooming" : 2,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/birman",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Birman",
+    "country_code" : "FR",
+    "energy_level" : 3,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        7
+      ],
+      "imperial" : [
+        6,
+        15
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Dependent",
+      "Gentle",
+      "Intelligent",
+      "Playful"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      16
+    ],
+    "id" : "bomb",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsAB\/Bombay.aspx",
+    "vocalisation" : 5,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The the golden eyes and the shiny black coa of the Bopmbay is absolutely striking. Likely to bond most with one family member, the Bombay will follow you from room to room and will almost always have something to say about what you are doing, loving attention and to be carried around, often on his caregiver's shoulder.",
+    "child_friendly" : 4,
+    "health_issues" : 3,
+    "reference_image_id" : "5iYq9NmT1",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 4,
+    "name" : "Bombay",
+    "alt_names" : [
+      "Small black Panther"
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 4,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/bombay",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Bombay_(cat)",
+    "country_code" : "US",
+    "energy_level" : 3,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        5
+      ],
+      "imperial" : [
+        6,
+        11
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Easy Going",
+      "Independent",
+      "Intelligent",
+      "Loyal",
+      "Social"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      14
+    ],
+    "id" : "bslo",
+    "vocalisation" : 1,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 1,
+    "country_codes" : [
+      "GB"
+    ],
+    "indoor" : false,
+    "description" : "The British Longhair is a very laid-back relaxed cat, often perceived to be very independent although they will enjoy the company of an equally relaxed and likeminded cat. They are an affectionate breed, but very much on their own terms and tend to prefer to choose to come and sit with their owners rather than being picked up.",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "7isAO4Cav",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 4,
+    "name" : "British Longhair",
+    "alt_names" : [
+      ""
+    ],
+    "origin" : [
+      "United Kingdom"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 3,
+    "grooming" : 5,
+    "short_legs" : false,
+    "hairless" : false,
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/British_Longhair",
+    "country_code" : "GB",
+    "energy_level" : 4,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        4,
+        8
+      ],
+      "imperial" : [
+        8,
+        18
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Easy Going",
+      "Gentle",
+      "Loyal",
+      "Patient",
+      "calm"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      17
+    ],
+    "id" : "bsho",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsAB\/BritishShorthair.aspx",
+    "vocalisation" : 1,
+    "natural" : true,
+    "affection_level" : 4,
+    "experimental" : false,
+    "shedding_level" : 4,
+    "country_codes" : [
+      "GB"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The British Shorthair is a very pleasant cat to have as a companion, ans is easy going and placid. The British is a fiercely loyal, loving cat and will attach herself to every one of her family members. While loving to play, she doesn't need hourly attention. If she is in the mood to play, she will find someone and bring a toy to that person. The British also plays well by herself, and thus is a good companion for single people.",
+    "child_friendly" : 4,
+    "health_issues" : 2,
+    "reference_image_id" : "s4wQfYoEk",
+    "intelligence" : 3,
+    "adaptability" : 5,
+    "stranger_friendly" : 2,
+    "name" : "British Shorthair",
+    "alt_names" : [
+      "Highlander",
+      "Highland Straight",
+      "Britannica"
+    ],
+    "origin" : [
+      "United Kingdom"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 3,
+    "grooming" : 2,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/british-shorthair",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/British_Shorthair",
+    "country_code" : "GB",
+    "energy_level" : 2,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        5,
+        9
+      ],
+      "imperial" : [
+        12,
+        20
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Curious",
+      "Intelligent",
+      "Gentle",
+      "Social",
+      "Interactive",
+      "Playful",
+      "Lively"
+    ],
+    "rex" : false,
+    "life_span" : [
+      15,
+      16
+    ],
+    "id" : "bure",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsAB\/Burmese.aspx",
+    "vocalisation" : 5,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "MM"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "Burmese love being with people, playing with them, and keeping them entertained. They crave close physical contact and abhor an empty lap. They will follow their humans from room to room, and sleep in bed with them, preferably under the covers, cuddled as close as possible. At play, they will turn around to see if their human is watching and being entertained by their crazy antics.",
+    "child_friendly" : 4,
+    "health_issues" : 3,
+    "reference_image_id" : "4lXnnfxac",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 5,
+    "name" : "Burmese",
+    "alt_names" : [
+      ""
+    ],
+    "origin" : [
+      "Burma"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/burmese",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Burmese_(cat)",
+    "country_code" : "MM",
+    "energy_level" : 4,
+    "hypoallergenic" : true,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        5
+      ],
+      "imperial" : [
+        6,
+        12
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Easy Going",
+      "Friendly",
+      "Intelligent",
+      "Lively",
+      "Playful",
+      "Social"
+    ],
+    "rex" : false,
+    "life_span" : [
+      10,
+      15
+    ],
+    "id" : "buri",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsAB\/Burmilla.aspx",
+    "vocalisation" : 5,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "GB"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Burmilla is a fairly placid cat. She tends to be an easy cat to get along with, requiring minimal care. The Burmilla is affectionate and sweet and makes a good companion, the Burmilla is an ideal companion to while away a lonely evening. Loyal, devoted, and affectionate, this cat will stay by its owner, always keeping them company.",
+    "child_friendly" : 4,
+    "health_issues" : 3,
+    "reference_image_id" : "jvg3XfEdC",
+    "intelligence" : 3,
+    "adaptability" : 5,
+    "stranger_friendly" : 3,
+    "name" : "Burmilla",
+    "alt_names" : [
+      ""
+    ],
+    "origin" : [
+      "United Kingdom"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 4,
+    "grooming" : 3,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/burmilla",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Burmilla",
+    "country_code" : "GB",
+    "energy_level" : 3,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        6
+      ],
+      "imperial" : [
+        6,
+        13
+      ]
+    },
+    "dog_friendly" : 4
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Curious",
+      "Intelligent",
+      "Loyal",
+      "Social"
+    ],
+    "rex" : false,
+    "life_span" : [
+      10,
+      14
+    ],
+    "id" : "cspa",
+    "vocalisation" : 1,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 1,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "description" : "Perhaps the only thing about the California spangled cat that isn’t wild-like is its personality. Known to be affectionate, gentle and sociable, this breed enjoys spending a great deal of time with its owners. They are very playful, often choosing to perch in high locations and show off their acrobatic skills.",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "B1ERTmgph",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 4,
+    "name" : "California Spangled",
+    "alt_names" : [
+      "Spangle"
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 3,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/California_Spangled",
+    "country_code" : "US",
+    "energy_level" : 5,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        5,
+        7
+      ],
+      "imperial" : [
+        10,
+        15
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Demanding",
+      "Interactive",
+      "Loyal"
+    ],
+    "rex" : false,
+    "life_span" : [
+      14,
+      16
+    ],
+    "id" : "ctif",
+    "vocalisation" : 5,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 5,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Chantilly is a devoted companion and prefers company to being left alone. While the Chantilly is not demanding, she will \"chirp\" and \"talk\" as if having a conversation. This breed is affectionate, with a sweet temperament. It can stay still for extended periods, happily lounging in the lap of its loved one. This quality makes the Tiffany an ideal traveling companion, and an ideal house companion for senior citizens and the physically handicapped.",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "TR-5nAd_S",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 4,
+    "name" : "Chantilly-Tiffany",
+    "alt_names" : [
+      "Chantilly",
+      "Foreign Longhair"
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 3,
+    "grooming" : 5,
+    "short_legs" : false,
+    "hairless" : false,
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Chantilly-Tiffany",
+    "country_code" : "US",
+    "energy_level" : 4,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        5
+      ],
+      "imperial" : [
+        7,
+        12
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Loyal",
+      "Intelligent",
+      "Social",
+      "Lively",
+      "Playful"
+    ],
+    "rex" : true,
+    "life_span" : [
+      12,
+      15
+    ],
+    "id" : "char",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsCJ\/Chartreux.aspx",
+    "vocalisation" : 1,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "FR"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Chartreux is generally silent but communicative. Short play sessions, mixed with naps and meals are their perfect day. Whilst appreciating any attention you give them, they are not demanding, content instead to follow you around devotedly, sleep on your bed and snuggle with you if you’re not feeling well.",
+    "child_friendly" : 4,
+    "health_issues" : 2,
+    "reference_image_id" : "j6oFGLpRG",
+    "intelligence" : 4,
+    "adaptability" : 5,
+    "stranger_friendly" : 5,
+    "name" : "Chartreux",
+    "alt_names" : [
+      ""
+    ],
+    "origin" : [
+      "France"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/chartreux",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Chartreux",
+    "country_code" : "FR",
+    "energy_level" : 2,
+    "hypoallergenic" : true,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        7
+      ],
+      "imperial" : [
+        6,
+        15
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Intelligent",
+      "Playful",
+      "Social"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      14
+    ],
+    "id" : "chau",
+    "vocalisation" : 1,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : true,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "EG"
+    ],
+    "indoor" : false,
+    "description" : "For those owners who desire a feline capable of evoking the great outdoors, the strikingly beautiful Chausie retains a bit of the wild in its appearance but has the house manners of our friendly, familiar moggies. Very playful, this cat needs a large amount of space to be able to fully embrace its hunting instincts.",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "vJ3lEYgXr",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 4,
+    "name" : "Chausie",
+    "alt_names" : [
+      "Nile Cat"
+    ],
+    "origin" : [
+      "Egypt"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 3,
+    "grooming" : 3,
+    "short_legs" : false,
+    "hairless" : false,
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Chausie",
+    "country_code" : "EG",
+    "energy_level" : 4,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        7
+      ],
+      "imperial" : [
+        7,
+        15
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Gentle",
+      "Intelligent",
+      "Social"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      14
+    ],
+    "id" : "chee",
+    "vocalisation" : 5,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 1,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "description" : "The Cheetoh has a super affectionate nature and real love for their human companions; they are intelligent with the ability to learn quickly. You can expect that a Cheetoh will be a fun-loving kitty who enjoys playing, running, and jumping through every room in your house.",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "IFXsxmXLm",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 4,
+    "name" : "Cheetoh",
+    "alt_names" : [
+      " "
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 3,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Bengal_cat#Cheetoh",
+    "country_code" : "US",
+    "energy_level" : 4,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        4,
+        7
+      ],
+      "imperial" : [
+        8,
+        15
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Intelligent",
+      "Playful",
+      "Social"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      16
+    ],
+    "id" : "csho",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsCJ\/ColorpointShorthair.aspx",
+    "vocalisation" : 5,
+    "natural" : false,
+    "affection_level" : 4,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "Colorpoint Shorthairs are an affectionate breed, devoted and loyal to their people. Sensitive to their owner’s moods, Colorpoints are more than happy to sit at your side or on your lap and purr words of encouragement on a bad day. They will constantly seek out your lap whenever it is open and in the moments when your lap is preoccupied they will stretch out in sunny spots on the ground.",
+    "child_friendly" : 4,
+    "health_issues" : 2,
+    "reference_image_id" : "oSpqGyUDS",
+    "intelligence" : 5,
+    "adaptability" : 3,
+    "stranger_friendly" : 2,
+    "name" : "Colorpoint Shorthair",
+    "alt_names" : [
+      ""
+    ],
+    "bidability" : 4,
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 4,
+    "grooming" : 2,
+    "short_legs" : false,
+    "hairless" : false,
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Colorpoint_Shorthair",
+    "country_code" : "US",
+    "cat_friendly" : 3,
+    "energy_level" : 4,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        2,
+        5
+      ],
+      "imperial" : [
+        4,
+        10
+      ]
+    },
+    "dog_friendly" : 4
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Intelligent",
+      "Active",
+      "Curious",
+      "Playful"
+    ],
+    "rex" : true,
+    "life_span" : [
+      11,
+      14
+    ],
+    "id" : "crex",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsCJ\/CornishRex.aspx",
+    "vocalisation" : 1,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 1,
+    "country_codes" : [
+      "GB"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "This is a confident cat who loves people and will follow them around, waiting for any opportunity to sit in a lap or give a kiss. He enjoys being handled, making it easy to take him to the veterinarian or train him for therapy work. The Cornish Rex stay in kitten mode most of their lives and well into their senior years. ",
+    "child_friendly" : 4,
+    "health_issues" : 2,
+    "reference_image_id" : "unX21IBVB",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 3,
+    "name" : "Cornish Rex",
+    "alt_names" : [
+      ""
+    ],
+    "origin" : [
+      "United Kingdom"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/cornish-rex",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Cornish_Rex",
+    "country_code" : "GB",
+    "cat_friendly" : 2,
+    "energy_level" : 5,
+    "hypoallergenic" : true,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        2,
+        4
+      ],
+      "imperial" : [
+        5,
+        9
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Gentle",
+      "Loyal",
+      "Intelligent",
+      "Playful"
+    ],
+    "rex" : false,
+    "life_span" : [
+      8,
+      14
+    ],
+    "id" : "cymr",
+    "vocalisation" : 3,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 5,
+    "country_codes" : [
+      "CA"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Cymric is a placid, sweet cat. They do not get too upset about anything that happens in their world. They are loving companions and adore people. They are smart and dexterous, capable of using his paws to get into cabinets or to open doors.",
+    "child_friendly" : 4,
+    "health_issues" : 3,
+    "reference_image_id" : "3dbtapCWM",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 3,
+    "name" : "Cymric",
+    "alt_names" : [
+      "Spangle"
+    ],
+    "origin" : [
+      "Canada"
+    ],
+    "suppressed_tail" : true,
+    "social_needs" : 5,
+    "grooming" : 3,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/cymric",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Cymric_(cat)",
+    "country_code" : "CA",
+    "energy_level" : 5,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        4,
+        6
+      ],
+      "imperial" : [
+        8,
+        13
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Social"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      15
+    ],
+    "id" : "cypr",
+    "vocalisation" : 3,
+    "natural" : true,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "CY"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "Loving, loyal, social and inquisitive, the Cyprus cat forms strong ties with their families and love nothing more than to be involved in everything that goes on in their surroundings. They are not overly active by nature which makes them the perfect companion for people who would like to share their homes with a laid-back relaxed feline companion. ",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "tJbzb7FKo",
+    "intelligence" : 3,
+    "adaptability" : 5,
+    "stranger_friendly" : 4,
+    "name" : "Cyprus",
+    "alt_names" : [
+      "Cypriot cat"
+    ],
+    "origin" : [
+      "Cyprus"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 3,
+    "grooming" : 3,
+    "short_legs" : false,
+    "hairless" : false,
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Cyprus_cat",
+    "country_code" : "CY",
+    "energy_level" : 4,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        4,
+        7
+      ],
+      "imperial" : [
+        8,
+        16
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Highly interactive",
+      "Mischievous",
+      "Loyal",
+      "Social",
+      "Playful"
+    ],
+    "rex" : true,
+    "life_span" : [
+      10,
+      15
+    ],
+    "id" : "drex",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsCJ\/DevonRex.aspx",
+    "vocalisation" : 1,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 1,
+    "country_codes" : [
+      "GB"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The favourite perch of the Devon Rex is right at head level, on the shoulder of her favorite person. She takes a lively interest in everything that is going on and refuses to be left out of any activity. Count on her to stay as close to you as possible, occasionally communicating his opinions in a quiet voice. She loves people and welcomes the attentions of friends and family alike.",
+    "child_friendly" : 4,
+    "health_issues" : 3,
+    "reference_image_id" : "4RzEwvyzz",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 5,
+    "name" : "Devon Rex",
+    "alt_names" : [
+      "Pixie cat",
+      "Alien cat",
+      "Poodle cat"
+    ],
+    "origin" : [
+      "United Kingdom"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/devon-rex",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Devon_Rex",
+    "country_code" : "GB",
+    "energy_level" : 5,
+    "hypoallergenic" : true,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        2,
+        5
+      ],
+      "imperial" : [
+        5,
+        10
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Playful",
+      "affectionate",
+      "loyal",
+      "social"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      15
+    ],
+    "id" : "dons",
+    "vocalisation" : 2,
+    "natural" : false,
+    "affection_level" : 4,
+    "experimental" : false,
+    "shedding_level" : 1,
+    "country_codes" : [
+      "RU"
+    ],
+    "indoor" : false,
+    "description" : "Donskoy are affectionate, intelligent, and easy-going. They demand lots of attention and interaction. The Donskoy also gets along well with other pets. It is now thought the same gene that causes degrees of hairlessness in the Donskoy also causes alterations in cat personality, making them calmer the less hair they have.",
+    "child_friendly" : 3,
+    "health_issues" : 3,
+    "reference_image_id" : "3KG57GfMW",
+    "intelligence" : 3,
+    "adaptability" : 4,
+    "stranger_friendly" : 5,
+    "name" : "Donskoy",
+    "origin" : [
+      "Russia"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 2,
+    "short_legs" : false,
+    "hairless" : true,
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Donskoy_(cat)",
+    "country_code" : "RU",
+    "cat_friendly" : 3,
+    "energy_level" : 4,
+    "hypoallergenic" : false,
+    "rare" : true,
+    "weight" : {
+      "metric" : [
+        5,
+        6
+      ],
+      "imperial" : [
+        10,
+        12
+      ]
+    },
+    "dog_friendly" : 3
+  },
+  {
+    "temperament" : [
+      "Intelligent",
+      "Friendly",
+      "Gentle",
+      "Loving",
+      "Loyal"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      15
+    ],
+    "id" : "lihu",
+    "vocalisation" : 3,
+    "natural" : true,
+    "affection_level" : 3,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "CN"
+    ],
+    "indoor" : true,
+    "description" : "The Dragon Li is loyal, but not particularly affectionate. They are known to be very intelligent, and their natural breed status means that they're very active. She is is gentle with people, and has a reputation as a talented hunter of rats and other vermin.",
+    "child_friendly" : 3,
+    "health_issues" : 1,
+    "reference_image_id" : "BQMSld0A0",
+    "intelligence" : 3,
+    "adaptability" : 3,
+    "stranger_friendly" : 3,
+    "name" : "Dragon Li",
+    "alt_names" : [
+      "Chinese Lia Hua",
+      "Lí hua māo (貍花貓)",
+      "Li Hua"
+    ],
+    "origin" : [
+      "China"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 4,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/li-hua",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Dragon_Li",
+    "country_code" : "CN",
+    "cat_friendly" : 3,
+    "energy_level" : 3,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        4,
+        6
+      ],
+      "imperial" : [
+        9,
+        12
+      ]
+    },
+    "dog_friendly" : 3
+  },
+  {
+    "temperament" : [
+      "Agile",
+      "Dependent",
+      "Gentle",
+      "Intelligent",
+      "Lively",
+      "Loyal",
+      "Playful"
+    ],
+    "rex" : false,
+    "life_span" : [
+      18,
+      20
+    ],
+    "id" : "emau",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsCJ\/EgyptianMau.aspx",
+    "vocalisation" : 3,
+    "natural" : true,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "EG"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Egyptian Mau is gentle and reserved. She loves her people and desires attention and affection from them but is wary of others. Early, continuing socialization is essential with this sensitive and sometimes shy cat, especially if you plan to show or travel with her. Otherwise, she can be easily startled by unexpected noises or events.",
+    "child_friendly" : 3,
+    "health_issues" : 3,
+    "reference_image_id" : "TuSyTkt2n",
+    "intelligence" : 4,
+    "adaptability" : 2,
+    "stranger_friendly" : 2,
+    "name" : "Egyptian Mau",
+    "alt_names" : [
+      "Pharaoh Cat"
+    ],
+    "origin" : [
+      "Egypt"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 4,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/egyptian-mau",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Egyptian_Mau",
+    "country_code" : "EG",
+    "energy_level" : 5,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        6
+      ],
+      "imperial" : [
+        6,
+        14
+      ]
+    },
+    "dog_friendly" : 3
+  },
+  {
+    "temperament" : [
+      "Sweet",
+      "Affectionate",
+      "Loyal"
+    ],
+    "rex" : false,
+    "life_span" : [
+      10,
+      15
+    ],
+    "id" : "ebur",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsCJ\/EuropeanBurmese.aspx",
+    "vocalisation" : 4,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "MM"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The European Burmese is a very affectionate, intelligent, and loyal cat. They thrive on companionship and will want to be with you, participating in everything you do. While they might pick a favorite family member, chances are that they will interact with everyone in the home, as well as any visitors that come to call. They are inquisitive and playful, even as adults. ",
+    "child_friendly" : 4,
+    "health_issues" : 4,
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 5,
+    "name" : "European Burmese",
+    "alt_names" : [
+      ""
+    ],
+    "origin" : [
+      "Burma"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "country_code" : "MM",
+    "cat_friendly" : 4,
+    "energy_level" : 4,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        6
+      ],
+      "imperial" : [
+        7,
+        14
+      ]
+    },
+    "dog_friendly" : 4
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Sweet",
+      "Loyal",
+      "Quiet",
+      "Peaceful"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      15
+    ],
+    "id" : "esho",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsCJ\/Exotic.aspx",
+    "vocalisation" : 1,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 2,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Exotic Shorthair is a gentle friendly cat that has the same personality as the Persian. They love having fun, don’t mind the company of other cats and dogs, also love to curl up for a sleep in a safe place. Exotics love their own people, but around strangers they are cautious at first. Given time, they usually warm up to visitors.",
+    "child_friendly" : 3,
+    "health_issues" : 3,
+    "reference_image_id" : "YnPrYEmfe",
+    "intelligence" : 3,
+    "adaptability" : 5,
+    "stranger_friendly" : 2,
+    "name" : "Exotic Shorthair",
+    "alt_names" : [
+      "Exotic"
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 4,
+    "grooming" : 2,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/exotic-shorthair",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Exotic_Shorthair",
+    "country_code" : "US",
+    "energy_level" : 3,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        6
+      ],
+      "imperial" : [
+        7,
+        14
+      ]
+    },
+    "dog_friendly" : 3
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Curious",
+      "Demanding",
+      "Friendly",
+      "Intelligent",
+      "Playful"
+    ],
+    "rex" : false,
+    "life_span" : [
+      10,
+      15
+    ],
+    "id" : "hbro",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsCJ\/HavanaBrown.aspx",
+    "vocalisation" : 1,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "GB"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Havana Brown is human oriented, playful, and curious. She has a strong desire to spend time with her people and involve herself in everything they do. Being naturally inquisitive, the Havana Brown reaches out with a paw to touch and feel when investigating curiosities in its environment. They are truly sensitive by nature and frequently gently touch their human companions as if they are extending a paw of friendship.",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "njK25knLH",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 3,
+    "name" : "Havana Brown",
+    "alt_names" : [
+      "Havana",
+      "HB"
+    ],
+    "origin" : [
+      "United Kingdom"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/havana-brown",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Havana_Brown",
+    "country_code" : "GB",
+    "energy_level" : 3,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        5
+      ],
+      "imperial" : [
+        6,
+        10
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Dependent",
+      "Gentle",
+      "Intelligent",
+      "Quiet",
+      "Social"
+    ],
+    "rex" : false,
+    "life_span" : [
+      9,
+      15
+    ],
+    "id" : "hima",
+    "vocalisation" : 1,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 4,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "Calm and devoted, Himalayans make excellent companions, though they prefer a quieter home. They are playful in a sedate kind of way and enjoy having an assortment of toys. The Himalayan will stretch out next to you, sleep in your bed and even sit on your lap when she is in the mood.",
+    "child_friendly" : 2,
+    "health_issues" : 3,
+    "reference_image_id" : "CDhOtM-Ig",
+    "intelligence" : 3,
+    "adaptability" : 5,
+    "stranger_friendly" : 2,
+    "name" : "Himalayan",
+    "alt_names" : [
+      "Himalayan Persian",
+      "Colourpoint Persian",
+      "Longhaired Colourpoint",
+      "Himmy"
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 4,
+    "grooming" : 5,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/himalayan",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Himalayan_(cat)",
+    "country_code" : "US",
+    "energy_level" : 1,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        6
+      ],
+      "imperial" : [
+        7,
+        14
+      ]
+    },
+    "dog_friendly" : 2
+  },
+  {
+    "temperament" : [
+      "Active",
+      "Agile",
+      "Clever",
+      "Easy Going",
+      "Intelligent",
+      "Lively",
+      "Loyal",
+      "Playful",
+      "Social"
+    ],
+    "rex" : false,
+    "life_span" : [
+      14,
+      16
+    ],
+    "id" : "jbob",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsCJ\/JapaneseBobtail.aspx",
+    "vocalisation" : 5,
+    "natural" : true,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "JP"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Japanese Bobtail is an active, sweet, loving and highly intelligent breed. They love to be with people and play seemingly endlessly. They learn their name and respond to it. They bring toys to people and play fetch with a favorite toy for hours. Bobtails are social and are at their best when in the company of people. They take over the house and are not intimidated. If a dog is in the house, Bobtails assume Bobtails are in charge.",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "-tm9-znzl",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 5,
+    "name" : "Japanese Bobtail",
+    "alt_names" : [
+      "Japanese Truncated Cat"
+    ],
+    "origin" : [
+      "Japan"
+    ],
+    "suppressed_tail" : true,
+    "social_needs" : 5,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/japanese-bobtail",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Japanese_Bobtail",
+    "country_code" : "JP",
+    "energy_level" : 5,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        2,
+        5
+      ],
+      "imperial" : [
+        5,
+        10
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Active",
+      "Devoted",
+      "Intelligent",
+      "Playful"
+    ],
+    "rex" : false,
+    "life_span" : [
+      10,
+      12
+    ],
+    "id" : "java",
+    "vocalisation" : 5,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 2,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "description" : "Javanese are endlessly interested, intelligent and active. They tend to enjoy jumping to great heights, playing with fishing pole-type or other interactive toys and just generally investigating their surroundings. He will attempt to copy things you do, such as opening doors or drawers.",
+    "child_friendly" : 4,
+    "health_issues" : 3,
+    "reference_image_id" : "xoI_EpOKe",
+    "intelligence" : 5,
+    "adaptability" : 4,
+    "stranger_friendly" : 3,
+    "name" : "Javanese",
+    "alt_names" : [
+      " "
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/javanese",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Javanese_cat",
+    "country_code" : "US",
+    "energy_level" : 5,
+    "hypoallergenic" : true,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        2,
+        5
+      ],
+      "imperial" : [
+        5,
+        10
+      ]
+    },
+    "dog_friendly" : 4
+  },
+  {
+    "temperament" : [
+      "Calm",
+      "Relaxed",
+      "Talkative",
+      "Playful",
+      "Warm"
+    ],
+    "rex" : false,
+    "life_span" : [
+      10,
+      12
+    ],
+    "id" : "khao",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsKthruR\/KhaoManee.aspx",
+    "vocalisation" : 5,
+    "natural" : false,
+    "affection_level" : 4,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "TH"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Khao Manee is highly intelligent, with an extrovert and inquisitive nature, however they are also very calm and relaxed, making them an idea lap cat.",
+    "child_friendly" : 3,
+    "health_issues" : 1,
+    "reference_image_id" : "165ok6ESN",
+    "intelligence" : 4,
+    "adaptability" : 4,
+    "stranger_friendly" : 3,
+    "name" : "Khao Manee",
+    "alt_names" : [
+      "Diamond Eye cat"
+    ],
+    "origin" : [
+      "Thailand"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 3,
+    "grooming" : 3,
+    "short_legs" : false,
+    "hairless" : false,
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Khao_Manee",
+    "country_code" : "TH",
+    "cat_friendly" : 3,
+    "energy_level" : 3,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        4,
+        6
+      ],
+      "imperial" : [
+        8,
+        12
+      ]
+    },
+    "dog_friendly" : 3
+  },
+  {
+    "temperament" : [
+      "Active",
+      "Loyal",
+      "highly intelligent",
+      "Expressive",
+      "Trainable"
+    ],
+    "rex" : false,
+    "life_span" : [
+      10,
+      15
+    ],
+    "id" : "kora",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsKthruR\/Korat.aspx",
+    "vocalisation" : 3,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "TH"
+    ],
+    "indoor" : false,
+    "description" : "The Korat is a natural breed, and one of the oldest stable cat breeds. They are highly intelligent and confident cats that can be fearless, although they are startled by loud sounds and sudden movements. Korats form strong bonds with their people and like to cuddle and stay nearby.",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "DbwiefiaY",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 2,
+    "name" : "Korat",
+    "origin" : [
+      "Thailand"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/korat",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Korat",
+    "country_code" : "TH",
+    "energy_level" : 3,
+    "hypoallergenic" : false,
+    "rare" : true,
+    "weight" : {
+      "metric" : [
+        3,
+        5
+      ],
+      "imperial" : [
+        7,
+        11
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Independent",
+      "highly intelligent",
+      "clever",
+      "inquisitive",
+      "sociable",
+      "playful",
+      "trainable"
+    ],
+    "rex" : false,
+    "life_span" : [
+      15,
+      20
+    ],
+    "id" : "kuri",
+    "vocalisation" : 3,
+    "natural" : true,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 2,
+    "country_codes" : [
+      "RU"
+    ],
+    "indoor" : false,
+    "description" : "The character of the Kurilian Bobtail is independent, highly intelligent, clever, inquisitive, sociable, playful, trainable, absent of aggression and very gentle. They are devoted to their humans and when allowed are either on the lap of or sleeping in bed with their owners.",
+    "child_friendly" : 5,
+    "health_issues" : 1,
+    "reference_image_id" : "NZpO4pU56M",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 5,
+    "name" : "Kurilian",
+    "origin" : [
+      "Russia"
+    ],
+    "suppressed_tail" : true,
+    "social_needs" : 5,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/kurilian-bobtail",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Kurilian_Bobtail",
+    "country_code" : "RU",
+    "energy_level" : 5,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        4,
+        7
+      ],
+      "imperial" : [
+        8,
+        15
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Friendly",
+      "Gentle",
+      "Intelligent",
+      "Playful",
+      "Quiet"
+    ],
+    "rex" : true,
+    "life_span" : [
+      10,
+      15
+    ],
+    "id" : "lape",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsKthruR\/LaPerm.aspx",
+    "vocalisation" : 3,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "TH"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "LaPerms are gentle and affectionate but also very active. Unlike many active breeds, the LaPerm is also quite content to be a lap cat. The LaPerm will often follow your lead; that is, if they are busy playing and you decide to sit and relax, simply pick up your LaPerm and sit down with it, and it will stay in your lap, devouring the attention you give it.",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "aKbsEYjSl",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 4,
+    "name" : "LaPerm",
+    "alt_names" : [
+      "Si-Sawat"
+    ],
+    "origin" : [
+      "Thailand"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 4,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/laperm",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/LaPerm",
+    "country_code" : "TH",
+    "energy_level" : 4,
+    "hypoallergenic" : true,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        5
+      ],
+      "imperial" : [
+        6,
+        10
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Adaptable",
+      "Intelligent",
+      "Loving",
+      "Gentle",
+      "Independent"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      15
+    ],
+    "id" : "mcoo",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsKthruR\/MaineCoon.aspx",
+    "vocalisation" : 1,
+    "natural" : true,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "They are known for their size and luxurious long coat Maine Coons are considered a gentle giant. The good-natured and affable Maine Coon adapts well to many lifestyles and personalities. She likes being with people and has the habit of following them around, but isn’t needy. Most Maine Coons love water and they can be quite good swimmers.",
+    "child_friendly" : 4,
+    "health_issues" : 3,
+    "reference_image_id" : "OOD3VXAQn",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 5,
+    "name" : "Maine Coon",
+    "alt_names" : [
+      "Coon Cat",
+      "Maine Cat",
+      "Maine Shag",
+      "Snowshoe Cat",
+      "American Longhair",
+      "The Gentle Giants"
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 3,
+    "grooming" : 3,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/maine-coon",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Maine_Coon",
+    "country_code" : "US",
+    "energy_level" : 3,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        5,
+        8
+      ],
+      "imperial" : [
+        12,
+        18
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "dog_friendly" : 5,
+    "weight" : {
+      "metric" : [
+        3,
+        6
+      ],
+      "imperial" : [
+        6,
+        13
+      ]
+    },
+    "grooming" : 1,
+    "country_code" : "GB",
+    "energy_level" : 5,
+    "vocalisation" : 5,
+    "adaptability" : 5,
+    "hypoallergenic" : false,
+    "short_legs" : false,
+    "natural" : false,
+    "temperament" : [
+      "Affectionate",
+      "Interactive",
+      "Playful",
+      "Social"
+    ],
+    "origin" : [
+      "United Kingdom"
+    ],
+    "child_friendly" : 4,
+    "country_codes" : [
+      "GB"
+    ],
+    "name" : "Malayan",
+    "indoor" : false,
+    "id" : "mala",
+    "shedding_level" : 1,
+    "affection_level" : 5,
+    "social_needs" : 3,
+    "stranger_friendly" : 3,
+    "hairless" : false,
+    "rex" : false,
+    "intelligence" : 3,
+    "health_issues" : 1,
+    "experimental" : false,
+    "rare" : false,
+    "suppressed_tail" : false,
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Asian_cat",
+    "alt_names" : [
+      "Asian"
+    ],
+    "life_span" : [
+      12,
+      18
+    ],
+    "description" : "Malayans love to explore and even enjoy traveling by way of a cat carrier. They are quite a talkative and rather loud cat with an apparent strong will. These cats will make sure that you give it the attention it seeks and always seem to want to be held and hugged. They will constantly interact with people, even strangers. They love to play and cuddle."
+  },
+  {
+    "temperament" : [
+      "Easy Going",
+      "Intelligent",
+      "Loyal",
+      "Playful",
+      "Social"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      14
+    ],
+    "id" : "manx",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsKthruR\/Manx.aspx",
+    "vocalisation" : 3,
+    "natural" : true,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 5,
+    "country_codes" : [
+      "IM"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Manx is a placid, sweet cat that is gentle and playful. She never seems to get too upset about anything. She is a loving companion and adores being with people.",
+    "child_friendly" : 4,
+    "health_issues" : 3,
+    "reference_image_id" : "fhYh2PDcC",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 3,
+    "name" : "Manx",
+    "alt_names" : [
+      "Manks",
+      "Stubbin",
+      "Rumpy"
+    ],
+    "origin" : [
+      "Isle of Man"
+    ],
+    "suppressed_tail" : true,
+    "social_needs" : 5,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/manx",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Manx_(cat)",
+    "country_code" : "IM",
+    "energy_level" : 5,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        6
+      ],
+      "imperial" : [
+        7,
+        13
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Agile",
+      "Easy Going",
+      "Intelligent",
+      "Playful"
+    ],
+    "rex" : false,
+    "life_span" : [
+      10,
+      15
+    ],
+    "id" : "munc",
+    "vocalisation" : 3,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Munchkin is an outgoing cat who enjoys being handled. She has lots of energy and is faster and more agile than she looks. The shortness of their legs does not seem to interfere with their running and leaping abilities.",
+    "child_friendly" : 4,
+    "health_issues" : 3,
+    "reference_image_id" : "j5cVSqLer",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 5,
+    "name" : "Munchkin",
+    "alt_names" : [
+      ""
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 2,
+    "short_legs" : true,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/munchkin",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Munchkin_(cat)",
+    "country_code" : "US",
+    "energy_level" : 4,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        2,
+        4
+      ],
+      "imperial" : [
+        5,
+        9
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Gentle",
+      "Quiet",
+      "Shy",
+      "Playful"
+    ],
+    "rex" : false,
+    "life_span" : [
+      11,
+      16
+    ],
+    "id" : "nebe",
+    "vocalisation" : 1,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Nebelung may have a reserved nature, but she loves to play (being especially fond of retrieving) and enjoys jumping or climbing to high places where she can study people and situations at her leisure before making up her mind about whether she wants to get involved.",
+    "child_friendly" : 4,
+    "health_issues" : 2,
+    "reference_image_id" : "OGTWqNNOt",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 3,
+    "name" : "Nebelung",
+    "alt_names" : [
+      "Longhaired Russian Blue"
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 3,
+    "grooming" : 3,
+    "short_legs" : false,
+    "hairless" : false,
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Nebelung",
+    "country_code" : "US",
+    "energy_level" : 3,
+    "hypoallergenic" : false,
+    "rare" : true,
+    "weight" : {
+      "metric" : [
+        3,
+        5
+      ],
+      "imperial" : [
+        7,
+        11
+      ]
+    },
+    "dog_friendly" : 4
+  },
+  {
+    "temperament" : [
+      "Sweet",
+      "Active",
+      "Intelligent",
+      "Social",
+      "Playful",
+      "Lively",
+      "Curious"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      16
+    ],
+    "id" : "norw",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsKthruR\/NorwegianForestCat.aspx",
+    "vocalisation" : 1,
+    "natural" : true,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "NO"
+    ],
+    "indoor" : false,
+    "description" : "The Norwegian Forest Cat is a sweet, loving cat. She appreciates praise and loves to interact with her parent. She makes a loving companion and bonds with her parents once she accepts them for her own. She is still a hunter at heart. She loves to chase toys as if they are real. She is territorial and patrols several times each day to make certain that all is fine.",
+    "child_friendly" : 4,
+    "health_issues" : 3,
+    "reference_image_id" : "06dgGmEOV",
+    "intelligence" : 4,
+    "adaptability" : 5,
+    "stranger_friendly" : 5,
+    "name" : "Norwegian Forest Cat",
+    "alt_names" : [
+      "Skogkatt \/ Skaukatt",
+      "Norsk Skogkatt \/ Norsk Skaukatt",
+      "Weegie"
+    ],
+    "origin" : [
+      "Norway"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 2,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/norwegian-forest-cat",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Norwegian_Forest_Cat",
+    "country_code" : "NO",
+    "energy_level" : 3,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        4,
+        7
+      ],
+      "imperial" : [
+        8,
+        16
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Active",
+      "Agile",
+      "Curious",
+      "Demanding",
+      "Friendly",
+      "Gentle",
+      "Lively",
+      "Playful",
+      "Social"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      14
+    ],
+    "id" : "ocic",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsKthruR\/Ocicat.aspx",
+    "vocalisation" : 3,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "description" : "Loyal and devoted to their owners, the Ocicat is intelligent, confident, outgoing, and seems to have many dog traits. They can be trained to fetch toys, walk on a lead, taught to 'speak', come when called, and follow other commands. ",
+    "child_friendly" : 4,
+    "health_issues" : 3,
+    "reference_image_id" : "JAx-08Y0n",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 5,
+    "name" : "Ocicat",
+    "alt_names" : [
+      ""
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/ocicat",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Ocicat",
+    "country_code" : "US",
+    "energy_level" : 5,
+    "hypoallergenic" : true,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        7
+      ],
+      "imperial" : [
+        7,
+        15
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Energetic",
+      "Affectionate",
+      "Intelligent",
+      "Social",
+      "Playful",
+      "Curious"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      14
+    ],
+    "id" : "orie",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsKthruR\/Oriental.aspx",
+    "vocalisation" : 5,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "Orientals are passionate about the people in their lives. They become extremely attached to their humans, so be prepared for a lifetime commitment. When you are not available to entertain her, an Oriental will divert herself by jumping on top of the refrigerator, opening drawers, seeking out new hideaways.",
+    "child_friendly" : 4,
+    "health_issues" : 3,
+    "reference_image_id" : "LutjkZJpH",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 3,
+    "name" : "Oriental",
+    "alt_names" : [
+      "Foreign Type"
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/oriental",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Oriental_Shorthair",
+    "country_code" : "US",
+    "energy_level" : 5,
+    "hypoallergenic" : true,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        2,
+        5
+      ],
+      "imperial" : [
+        5,
+        10
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "loyal",
+      "Sedate",
+      "Quiet"
+    ],
+    "rex" : false,
+    "life_span" : [
+      14,
+      15
+    ],
+    "id" : "pers",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsKthruR\/Persian.aspx",
+    "vocalisation" : 1,
+    "natural" : true,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 4,
+    "country_codes" : [
+      "IR"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "Persians are sweet, gentle cats that can be playful or quiet and laid-back. Great with families and children, they absolutely love to lounge around the house. While they don’t mind a full house or active kids, they’ll usually hide when they need some alone time.",
+    "child_friendly" : 2,
+    "health_issues" : 3,
+    "reference_image_id" : "-Zfz5z2jK",
+    "intelligence" : 3,
+    "adaptability" : 5,
+    "stranger_friendly" : 2,
+    "name" : "Persian",
+    "alt_names" : [
+      "Longhair",
+      "Persian Longhair",
+      "Shiraz",
+      "Shirazi"
+    ],
+    "origin" : [
+      "Iran (Persia)"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 4,
+    "grooming" : 5,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/persian",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Persian_(cat)",
+    "country_code" : "IR",
+    "energy_level" : 1,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        4,
+        6
+      ],
+      "imperial" : [
+        9,
+        14
+      ]
+    },
+    "dog_friendly" : 2
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Social",
+      "Intelligent",
+      "Loyal"
+    ],
+    "rex" : false,
+    "life_span" : [
+      13,
+      16
+    ],
+    "id" : "pixi",
+    "vocalisation" : 1,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "Companionable and affectionate, the Pixie-bob wants to be an integral part of the family. The Pixie-Bob’s ability to bond with their humans along with their patient personas make them excellent companions for children.",
+    "child_friendly" : 4,
+    "health_issues" : 2,
+    "reference_image_id" : "z7fJRNeN6",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 4,
+    "name" : "Pixie-bob",
+    "alt_names" : [
+      ""
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : true,
+    "social_needs" : 4,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/pixiebob",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Pixiebob",
+    "country_code" : "US",
+    "energy_level" : 4,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        4,
+        8
+      ],
+      "imperial" : [
+        8,
+        17
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Friendly",
+      "Gentle",
+      "Calm"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      16
+    ],
+    "id" : "raga",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsKthruR\/Ragamuffin.aspx",
+    "vocalisation" : 1,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Ragamuffin is calm, even tempered and gets along well with all family members. Changes in routine generally do not upset her. She is an ideal companion for those in apartments, and with children due to her patient nature.",
+    "child_friendly" : 4,
+    "health_issues" : 3,
+    "reference_image_id" : "SMuZx-bFM",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 5,
+    "name" : "Ragamuffin",
+    "alt_names" : [
+      ""
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 3,
+    "grooming" : 3,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/ragamuffin",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Ragamuffin_cat",
+    "country_code" : "US",
+    "energy_level" : 3,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        4,
+        9
+      ],
+      "imperial" : [
+        8,
+        20
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Friendly",
+      "Gentle",
+      "Quiet",
+      "Easygoing"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      17
+    ],
+    "id" : "ragd",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsKthruR\/Ragdoll.aspx",
+    "vocalisation" : 1,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "Ragdolls love their people, greeting them at the door, following them around the house, and leaping into a lap or snuggling in bed whenever given the chance. They are the epitome of a lap cat, enjoy being carried and collapsing into the arms of anyone who holds them.",
+    "child_friendly" : 4,
+    "health_issues" : 3,
+    "reference_image_id" : "oGefY4YoG",
+    "intelligence" : 3,
+    "adaptability" : 5,
+    "stranger_friendly" : 3,
+    "name" : "Ragdoll",
+    "alt_names" : [
+      "Rag doll"
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 2,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/ragdoll",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Ragdoll",
+    "country_code" : "US",
+    "energy_level" : 3,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        5,
+        9
+      ],
+      "imperial" : [
+        12,
+        20
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Active",
+      "Dependent",
+      "Easy Going",
+      "Gentle",
+      "Intelligent",
+      "Loyal",
+      "Playful",
+      "Quiet"
+    ],
+    "rex" : false,
+    "life_span" : [
+      10,
+      16
+    ],
+    "id" : "rblu",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsKthruR\/RussianBlue.aspx",
+    "vocalisation" : 1,
+    "natural" : true,
+    "affection_level" : 3,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "RU"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "Russian Blues are very loving and reserved. They do not like noisy households but they do like to play and can be quite active when outdoors. They bond very closely with their owner and are known to be compatible with other pets.",
+    "child_friendly" : 3,
+    "health_issues" : 1,
+    "reference_image_id" : "Rhj-JsTLP",
+    "intelligence" : 3,
+    "adaptability" : 3,
+    "stranger_friendly" : 1,
+    "name" : "Russian Blue",
+    "alt_names" : [
+      "Archangel Blue",
+      "Archangel Cat"
+    ],
+    "origin" : [
+      "Russia"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 3,
+    "grooming" : 3,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/russian-blue-nebelung",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Russian_Blue",
+    "country_code" : "RU",
+    "energy_level" : 3,
+    "hypoallergenic" : true,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        2,
+        5
+      ],
+      "imperial" : [
+        5,
+        11
+      ]
+    },
+    "dog_friendly" : 3
+  },
+  {
+    "temperament" : [
+      "Curious",
+      "Social",
+      "Intelligent",
+      "Loyal",
+      "Outgoing",
+      "Adventurous",
+      "Affectionate"
+    ],
+    "rex" : false,
+    "life_span" : [
+      17,
+      20
+    ],
+    "id" : "sava",
+    "vocalisation" : 1,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : true,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "description" : "Savannah is the feline version of a dog. Actively seeking social interaction, they are given to pouting if left out. Remaining kitten-like through life. Profoundly loyal to immediate family members whilst questioning the presence of strangers. Making excellent companions that are loyal, intelligent and eager to be involved.",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "a8nIYvs6S",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 5,
+    "name" : "Savannah",
+    "alt_names" : [
+      ""
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/savannah",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Savannah_cat",
+    "country_code" : "US",
+    "energy_level" : 5,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        4,
+        11
+      ],
+      "imperial" : [
+        8,
+        25
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Intelligent",
+      "Loyal",
+      "Playful",
+      "Social",
+      "Sweet",
+      "Loving"
+    ],
+    "rex" : false,
+    "life_span" : [
+      11,
+      14
+    ],
+    "id" : "sfol",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsSthruT\/ScottishFold.aspx",
+    "vocalisation" : 1,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "GB"
+    ],
+    "indoor" : false,
+    "description" : "The Scottish Fold is a sweet, charming breed. She is an easy cat to live with and to care for. She is affectionate and is comfortable with all members of her family. Her tail should be handled gently. Folds are known for sleeping on their backs, and for sitting with their legs stretched out and their paws on their belly. This is called the \"Buddha Position\".",
+    "child_friendly" : 4,
+    "health_issues" : 4,
+    "reference_image_id" : "o9t0LDcsa",
+    "intelligence" : 3,
+    "adaptability" : 5,
+    "stranger_friendly" : 3,
+    "name" : "Scottish Fold",
+    "alt_names" : [
+      "Scot Fold"
+    ],
+    "origin" : [
+      "United Kingdom"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 3,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/scottish-fold-highland-fold",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Scottish_Fold",
+    "country_code" : "GB",
+    "energy_level" : 3,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        2,
+        5
+      ],
+      "imperial" : [
+        5,
+        11
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Active",
+      "Affectionate",
+      "Dependent",
+      "Gentle",
+      "Patient",
+      "Playful",
+      "Quiet",
+      "Social"
+    ],
+    "rex" : true,
+    "life_span" : [
+      14,
+      15
+    ],
+    "id" : "srex",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsSthruT\/SelkirkRex.aspx",
+    "vocalisation" : 3,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 1,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Selkirk Rex is an incredibly patient, loving, and tolerant breed. The Selkirk also has a silly side and is sometimes described as clownish. She loves being a lap cat and will be happy to chat with you in a quiet voice if you talk to her. ",
+    "child_friendly" : 4,
+    "health_issues" : 4,
+    "reference_image_id" : "II9dOZmrw",
+    "intelligence" : 3,
+    "adaptability" : 5,
+    "stranger_friendly" : 3,
+    "name" : "Selkirk Rex",
+    "alt_names" : [
+      "Shepherd Cat"
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 3,
+    "grooming" : 2,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/selkirk-rex",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Selkirk_Rex",
+    "country_code" : "US",
+    "energy_level" : 3,
+    "hypoallergenic" : true,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        7
+      ],
+      "imperial" : [
+        6,
+        16
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Active",
+      "Agile",
+      "Clever",
+      "Sociable",
+      "Loving",
+      "Energetic"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      15
+    ],
+    "id" : "siam",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsSthruT\/Siamese.aspx",
+    "vocalisation" : 5,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 2,
+    "country_codes" : [
+      "TH"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "While Siamese cats are extremely fond of their people, they will follow you around and supervise your every move, being talkative and opinionated. They are a demanding and social cat, that do not like being left alone for long periods.",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "ai6Jps4sx",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 5,
+    "name" : "Siamese",
+    "alt_names" : [
+      "Siam",
+      "Thai Cat"
+    ],
+    "origin" : [
+      "Thailand"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/siamese",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Siamese_(cat)",
+    "country_code" : "TH",
+    "energy_level" : 5,
+    "hypoallergenic" : true,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        4,
+        7
+      ],
+      "imperial" : [
+        8,
+        15
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Curious",
+      "Intelligent",
+      "Loyal",
+      "Sweet",
+      "Agile",
+      "Playful",
+      "Affectionate"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      15
+    ],
+    "id" : "sibe",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsSthruT\/Siberian.aspx",
+    "vocalisation" : 1,
+    "natural" : true,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "RU"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Siberians dog like temperament and affection makes the ideal lap cat and will live quite happily indoors. Very agile and powerful, the Siberian cat can easily leap and reach high places, including the tops of refrigerators and even doors. ",
+    "child_friendly" : 4,
+    "health_issues" : 2,
+    "reference_image_id" : "3bkZAjRh1",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 3,
+    "name" : "Siberian",
+    "alt_names" : [
+      "Moscow Semi-longhair",
+      "HairSiberian Forest Cat"
+    ],
+    "origin" : [
+      "Russia"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 4,
+    "grooming" : 2,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/siberian",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Siberian_(cat)",
+    "country_code" : "RU",
+    "energy_level" : 5,
+    "hypoallergenic" : true,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        4,
+        7
+      ],
+      "imperial" : [
+        8,
+        16
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Curious",
+      "Easy Going",
+      "Intelligent",
+      "Interactive",
+      "Lively",
+      "Loyal"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      15
+    ],
+    "id" : "sing",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsSthruT\/Singapura.aspx",
+    "vocalisation" : 1,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "SP"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Singapura is usually cautious when it comes to meeting new people, but loves attention from his family so much that she sometimes has the reputation of being a pest. This is a highly active, curious and affectionate cat. She may be small, but she knows she’s in charge",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "Qtncp2nRe",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 5,
+    "name" : "Singapura",
+    "alt_names" : [
+      "Drain Cat",
+      "Kucinta",
+      "Pura"
+    ],
+    "origin" : [
+      "Singapore"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/singapura",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Singapura_(cat)",
+    "country_code" : "SP",
+    "energy_level" : 5,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        2,
+        4
+      ],
+      "imperial" : [
+        5,
+        8
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Social",
+      "Intelligent",
+      "Sweet-tempered"
+    ],
+    "rex" : false,
+    "life_span" : [
+      14,
+      19
+    ],
+    "id" : "snow",
+    "vocalisation" : 5,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Snowshoe is a vibrant, energetic, affectionate and intelligent cat. They love being around people which makes them ideal for families, and becomes unhappy when left alone for long periods of time. Usually attaching themselves to one person, they do whatever they can to get your attention.",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "MK-sYESvO",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 4,
+    "name" : "Snowshoe",
+    "alt_names" : [
+      ""
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 4,
+    "grooming" : 3,
+    "short_legs" : false,
+    "hairless" : false,
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Snowshoe_(cat)",
+    "country_code" : "US",
+    "energy_level" : 4,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        5
+      ],
+      "imperial" : [
+        7,
+        12
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Mischievous",
+      "Tenacious",
+      "Intelligent",
+      "Affectionate",
+      "Gentle",
+      "Interactive",
+      "Loyal"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      16
+    ],
+    "id" : "soma",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsSthruT\/Somali.aspx",
+    "vocalisation" : 1,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 4,
+    "country_codes" : [
+      "SO"
+    ],
+    "indoor" : false,
+    "description" : "The Somali lives life to the fullest. He climbs higher, jumps farther, plays harder. Nothing escapes the notice of this highly intelligent and inquisitive cat. Somalis love the company of humans and other animals.",
+    "child_friendly" : 3,
+    "health_issues" : 2,
+    "reference_image_id" : "EPF2ejNS0",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 5,
+    "name" : "Somali",
+    "alt_names" : [
+      "Fox Cat",
+      "Long-Haired Abyssinian"
+    ],
+    "origin" : [
+      "Somalia"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 3,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/somali",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Somali_(cat)",
+    "country_code" : "SO",
+    "energy_level" : 5,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        5
+      ],
+      "imperial" : [
+        6,
+        12
+      ]
+    },
+    "dog_friendly" : 4
+  },
+  {
+    "temperament" : [
+      "Loyal",
+      "Inquisitive",
+      "Friendly",
+      "Quiet",
+      "Gentle"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      14
+    ],
+    "id" : "sphy",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsSthruT\/Sphynx.aspx",
+    "vocalisation" : 5,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 1,
+    "country_codes" : [
+      "CA"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Sphynx is an intelligent, inquisitive, extremely friendly people-oriented breed. Sphynx commonly greet their owners  at the front door, with obvious excitement and happiness. She has an unexpected sense of humor that is often at odds with her dour expression.",
+    "child_friendly" : 4,
+    "health_issues" : 4,
+    "reference_image_id" : "BDb8ZXb1v",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 5,
+    "name" : "Sphynx",
+    "alt_names" : [
+      "Canadian Hairless",
+      "Canadian Sphynx"
+    ],
+    "origin" : [
+      "Canada"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 2,
+    "short_legs" : false,
+    "hairless" : true,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/sphynx",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Sphynx_(cat)",
+    "country_code" : "CA",
+    "energy_level" : 3,
+    "hypoallergenic" : true,
+    "rare" : true,
+    "weight" : {
+      "metric" : [
+        3,
+        5
+      ],
+      "imperial" : [
+        6,
+        12
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Curious",
+      "Intelligent",
+      "Social",
+      "Lively",
+      "Outgoing",
+      "Playful",
+      "Affectionate"
+    ],
+    "rex" : false,
+    "life_span" : [
+      14,
+      16
+    ],
+    "id" : "tonk",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsSthruT\/Tonkinese.aspx",
+    "vocalisation" : 5,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "CA"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "Intelligent and generous with their affection, a Tonkinese will supervise all activities with curiosity. Loving, social, active, playful, yet content to be a lap cat",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "KBroiVNCM",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 5,
+    "name" : "Tonkinese",
+    "alt_names" : [
+      "Tonk"
+    ],
+    "origin" : [
+      "Canada"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/tonkinese",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Tonkinese_(cat)",
+    "country_code" : "CA",
+    "energy_level" : 5,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        5
+      ],
+      "imperial" : [
+        6,
+        12
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Playful",
+      "Social",
+      "Intelligent"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      15
+    ],
+    "id" : "toyg",
+    "vocalisation" : 5,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "The Toyger has a sweet, calm personality and is generally friendly. He's outgoing enough to walk on a leash, energetic enough to play fetch and other interactive games, and confident enough to get along with other cats and friendly dogs.",
+    "child_friendly" : 4,
+    "health_issues" : 2,
+    "reference_image_id" : "O3F3_S1XN",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 5,
+    "name" : "Toyger",
+    "alt_names" : [
+      ""
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 3,
+    "grooming" : 1,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/toyger",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Toyger",
+    "country_code" : "US",
+    "energy_level" : 5,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        7
+      ],
+      "imperial" : [
+        7,
+        15
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Affectionate",
+      "Agile",
+      "Clever",
+      "Gentle",
+      "Intelligent",
+      "Playful",
+      "Social"
+    ],
+    "rex" : false,
+    "life_span" : [
+      15,
+      18
+    ],
+    "id" : "tang",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsSthruT\/TurkishAngora.aspx",
+    "vocalisation" : 3,
+    "natural" : true,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 2,
+    "country_codes" : [
+      "TR"
+    ],
+    "indoor" : false,
+    "description" : "This is a smart and intelligent cat which bonds well with humans. With its affectionate and playful personality the Angora is a top choice for families. The Angora gets along great with other pets in the home, but it will make clear who is in charge, and who the house belongs to",
+    "child_friendly" : 4,
+    "health_issues" : 2,
+    "reference_image_id" : "7CGV6WVXq",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 5,
+    "name" : "Turkish Angora",
+    "alt_names" : [
+      "Ankara"
+    ],
+    "origin" : [
+      "Turkey"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 5,
+    "grooming" : 2,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/turkish-angora",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Turkish_Angora",
+    "country_code" : "TR",
+    "energy_level" : 5,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        2,
+        5
+      ],
+      "imperial" : [
+        5,
+        10
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Agile",
+      "Intelligent",
+      "Loyal",
+      "Playful",
+      "Energetic"
+    ],
+    "rex" : false,
+    "life_span" : [
+      12,
+      17
+    ],
+    "id" : "tvan",
+    "cfa_url" : "http:\/\/cfa.org\/Breeds\/BreedsSthruT\/TurkishVan.aspx",
+    "vocalisation" : 5,
+    "natural" : true,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "TR"
+    ],
+    "indoor" : false,
+    "description" : "While the Turkish Van loves to jump and climb, play with toys, retrieve and play chase, she is is big and ungainly; this is one cat who doesn’t always land on his feet. While not much of a lap cat, the Van will be happy to cuddle next to you and sleep in your bed. ",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "sxIXJax6h",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 4,
+    "name" : "Turkish Van",
+    "alt_names" : [
+      "Turkish Cat",
+      "Swimming cat"
+    ],
+    "origin" : [
+      "Turkey"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 4,
+    "grooming" : 2,
+    "short_legs" : false,
+    "hairless" : false,
+    "vetstreet_url" : "http:\/\/www.vetstreet.com\/cats\/turkish-van",
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/Turkish_Van",
+    "country_code" : "TR",
+    "energy_level" : 5,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        3,
+        9
+      ],
+      "imperial" : [
+        7,
+        20
+      ]
+    },
+    "dog_friendly" : 5
+  },
+  {
+    "temperament" : [
+      "Playful",
+      "Social",
+      "Intelligent",
+      "Curious",
+      "Friendly"
+    ],
+    "rex" : false,
+    "life_span" : [
+      13,
+      15
+    ],
+    "id" : "ycho",
+    "vocalisation" : 5,
+    "natural" : false,
+    "affection_level" : 5,
+    "experimental" : false,
+    "shedding_level" : 3,
+    "country_codes" : [
+      "US"
+    ],
+    "indoor" : false,
+    "lap" : true,
+    "description" : "York Chocolate cats are known to be true lap cats with a sweet temperament. They love to be cuddled and petted. Their curious nature makes them follow you all the time and participate in almost everything you do, even if it's related to water: unlike many other cats, York Chocolates love it.",
+    "child_friendly" : 4,
+    "health_issues" : 1,
+    "reference_image_id" : "0SxW2SQ_S",
+    "intelligence" : 5,
+    "adaptability" : 5,
+    "stranger_friendly" : 4,
+    "name" : "York Chocolate",
+    "alt_names" : [
+      "York"
+    ],
+    "origin" : [
+      "United States"
+    ],
+    "suppressed_tail" : false,
+    "social_needs" : 4,
+    "grooming" : 3,
+    "short_legs" : false,
+    "hairless" : false,
+    "wikipedia_url" : "https:\/\/en.wikipedia.org\/wiki\/York_Chocolate",
+    "country_code" : "US",
+    "energy_level" : 5,
+    "hypoallergenic" : false,
+    "rare" : false,
+    "weight" : {
+      "metric" : [
+        5,
+        8
+      ],
+      "imperial" : [
+        12,
+        18
+      ]
+    },
+    "dog_friendly" : 5
+  }
+]

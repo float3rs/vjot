@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "08952074-88A2-4AD2-A04D-49EAFF84720C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "495C9943-B5EB-48B3-9731-333739A6FCFC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Saridakis-vjot/capstone/Views/ImageViews/DogImageViews/DogImageFavViews/DogImageFavXView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "410"
+            endingLineNumber = "410"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "495C9943-B5EB-48B3-9731-333739A6FCFC - a1de972bafd7d7c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Saridakis_vjot.DogSectionView, Saridakis_vjot.DogFavDetailsView)&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ScrollView&lt;SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Saridakis_vjot.DogSectionView, Saridakis_vjot.DogFavDetailsView)&gt;&gt;&gt;, SwiftUI.Spacer, Saridakis_vjot.WarningVetFooterView)&gt; in Saridakis_vjot.DogImageFavXListElementContentView.body.getter : some"
+                  moduleName = "Saridakis-vjot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikos/bootcamp/capstone/Saridakis-vjot/Saridakis-vjot/capstone/Views/ImageViews/DogImageViews/DogImageFavViews/DogImageFavXView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "411"
+                  endingLineNumber = "411"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "495C9943-B5EB-48B3-9731-333739A6FCFC - 9cb8667f5eb8f201"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Saridakis_vjot.DogSectionView, Saridakis_vjot.DogFavDetailsView)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Saridakis_vjot.DogSectionView, Saridakis_vjot.DogFavDetailsView)&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ScrollView&lt;SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Saridakis_vjot.DogSectionView, Saridakis_vjot.DogFavDetailsView)&gt;&gt;&gt;, SwiftUI.Spacer, Saridakis_vjot.WarningVetFooterView)&gt; in Saridakis_vjot.DogImageFavXListElementContentView.body.getter : some"
+                  moduleName = "Saridakis-vjot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikos/bootcamp/capstone/Saridakis-vjot/Saridakis-vjot/capstone/Views/ImageViews/DogImageViews/DogImageFavViews/DogImageFavXView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "411"
+                  endingLineNumber = "411"
+                  offsetFromSymbolStart = "353">
+               </Location>
+               <Location
+                  uuid = "495C9943-B5EB-48B3-9731-333739A6FCFC - f7c810ce94e294c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Group&lt;Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;&gt;, Saridakis_vjot.DogSectionView, Saridakis_vjot.DogFavDetailsView)&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ScrollView&lt;SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Group&lt;Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;&gt;, Saridakis_vjot.DogSectionView, Saridakis_vjot.DogFavDetailsView)&gt;&gt;&gt;, SwiftUI.Spacer, Saridakis_vjot.WarningVetFooterView)&gt; in Saridakis_vjot.DogImageFavXListElementContentView.body.getter : some"
+                  moduleName = "Saridakis-vjot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikos/bootcamp/capstone/Saridakis-vjot/Saridakis-vjot/capstone/Views/ImageViews/DogImageViews/DogImageFavViews/DogImageFavXView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "412"
+                  endingLineNumber = "412"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "495C9943-B5EB-48B3-9731-333739A6FCFC - f7c810ce94e294c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Group&lt;Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;&gt;, Saridakis_vjot.DogSectionView, Saridakis_vjot.DogFavDetailsView)&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ScrollView&lt;SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Group&lt;Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;&gt;, Saridakis_vjot.DogSectionView, Saridakis_vjot.DogFavDetailsView)&gt;&gt;&gt;, SwiftUI.Spacer, Saridakis_vjot.WarningVetFooterView)&gt; in Saridakis_vjot.DogImageFavXListElementContentView.body.getter : some"
+                  moduleName = "Saridakis-vjot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikos/bootcamp/capstone/Saridakis-vjot/Saridakis-vjot/capstone/Views/ImageViews/DogImageViews/DogImageFavViews/DogImageFavXView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "412"
+                  endingLineNumber = "412"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

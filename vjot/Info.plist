@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>TheCatAPI_Key</key>
+	<string>live_8OXY9Gcr0pgpPaJSMW4Iy41evMRDri6vN9UJIJBibFoJIVnwXKcuIy3V6osFDp7v</string>
+	<key>TheDogAPI_Key</key>
+	<string>live_2IWXSet4cLcgldhM79UsfRiUOpd2JUO2f7lWr1EAJYMDXlfWSJFUgGmykdg5lTb2</string>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIColorName</key>
+		<string>LaunchScreenColorSet</string>
+		<key>UIImageName</key>
+		<string>LaunchScreenImageSet</string>
+		<key>UILaunchScreen</key>
+		<dict/>
+	</dict>
+</dict>
+</plist>

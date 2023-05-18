@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "gender-neutral_names.json",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
