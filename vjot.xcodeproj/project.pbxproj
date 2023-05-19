@@ -12,7 +12,7 @@
 		02035F5129D0A76A009FEA41 /* APIVoteFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02035F5029D0A76A009FEA41 /* APIVoteFunctions.swift */; };
 		02035F5329D0A88F009FEA41 /* CatAPIVoteModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02035F5229D0A88F009FEA41 /* CatAPIVoteModel.swift */; };
 		02035F5529D0A89A009FEA41 /* DogAPIVoteModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02035F5429D0A89A009FEA41 /* DogAPIVoteModel.swift */; };
-		0205401529CEE1E700F7727C /* CapstoneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0205401429CEE1E700F7727C /* CapstoneView.swift */; };
+		0205401529CEE1E700F7727C /* GoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0205401429CEE1E700F7727C /* GoView.swift */; };
 		0205401729CEE26400F7727C /* ModelConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0205401629CEE26400F7727C /* ModelConstants.swift */; };
 		0205402229CEE51F00F7727C /* FoldedCatAPIBreedModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0205402129CEE51F00F7727C /* FoldedCatAPIBreedModel.swift */; };
 		0205402429CEE52D00F7727C /* FoldedDogAPIBreedModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0205402329CEE52D00F7727C /* FoldedDogAPIBreedModel.swift */; };
@@ -79,7 +79,7 @@
 		026A551529F47ACF0026310C /* DogSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 026A551429F47ACF0026310C /* DogSectionView.swift */; };
 		026A551829F47DCD0026310C /* CatDeleteButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 026A551729F47DCD0026310C /* CatDeleteButtonView.swift */; };
 		026A551A29F47DD70026310C /* DogDeleteButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 026A551929F47DD70026310C /* DogDeleteButtonView.swift */; };
-		026CA25B29A0AE1D0005F6E1 /* Saridakis_vjotApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 026CA25A29A0AE1D0005F6E1 /* Saridakis_vjotApp.swift */; };
+		026CA25B29A0AE1D0005F6E1 /* vjotApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 026CA25A29A0AE1D0005F6E1 /* vjotApp.swift */; };
 		026CA25D29A0AE1D0005F6E1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 026CA25C29A0AE1D0005F6E1 /* ContentView.swift */; };
 		026CA25F29A0AE1F0005F6E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 026CA25E29A0AE1F0005F6E1 /* Assets.xcassets */; };
 		026CA26229A0AE1F0005F6E1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 026CA26129A0AE1F0005F6E1 /* Preview Assets.xcassets */; };
@@ -254,7 +254,7 @@
 		02035F5029D0A76A009FEA41 /* APIVoteFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIVoteFunctions.swift; sourceTree = "<group>"; };
 		02035F5229D0A88F009FEA41 /* CatAPIVoteModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatAPIVoteModel.swift; sourceTree = "<group>"; };
 		02035F5429D0A89A009FEA41 /* DogAPIVoteModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogAPIVoteModel.swift; sourceTree = "<group>"; };
-		0205401429CEE1E700F7727C /* CapstoneView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CapstoneView.swift; sourceTree = "<group>"; };
+		0205401429CEE1E700F7727C /* GoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoView.swift; sourceTree = "<group>"; };
 		0205401629CEE26400F7727C /* ModelConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelConstants.swift; sourceTree = "<group>"; };
 		0205402129CEE51F00F7727C /* FoldedCatAPIBreedModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoldedCatAPIBreedModel.swift; sourceTree = "<group>"; };
 		0205402329CEE52D00F7727C /* FoldedDogAPIBreedModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoldedDogAPIBreedModel.swift; sourceTree = "<group>"; };
@@ -324,7 +324,7 @@
 		026A551729F47DCD0026310C /* CatDeleteButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatDeleteButtonView.swift; sourceTree = "<group>"; };
 		026A551929F47DD70026310C /* DogDeleteButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogDeleteButtonView.swift; sourceTree = "<group>"; };
 		026CA25729A0AE1D0005F6E1 /* vjot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = vjot.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		026CA25A29A0AE1D0005F6E1 /* Saridakis_vjotApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Saridakis_vjotApp.swift; sourceTree = "<group>"; };
+		026CA25A29A0AE1D0005F6E1 /* vjotApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vjotApp.swift; sourceTree = "<group>"; };
 		026CA25C29A0AE1D0005F6E1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		026CA25E29A0AE1F0005F6E1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		026CA26129A0AE1F0005F6E1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -915,9 +915,23 @@
 		026CA25929A0AE1D0005F6E1 /* vjot */ = {
 			isa = PBXGroup;
 			children = (
-				0296339129CDAC9500A05B01 /* capstone */,
+				026A551B29F47E210026310C /* Sins */,
+				026687CF29E70F2000AEF2B6 /* Jewels */,
+				0205403729CEF69F00F7727C /* Consts */,
+				0263DE0729DDB9CC00FDD074 /* Data */,
+				027560D42A00ED2400526455 /* Finance */,
+				02E71F6A29E160B700829CE4 /* Tools */,
+				02C7CE2629EA7E470012E305 /* UIUX */,
+				02F8BEC129FD19210075F05A /* Compass */,
+				02F8BEC229FD19310075F05A /* Setup */,
+				02D32A6629E073A5001A63B1 /* Gigs */,
+				0263DE0829DDB9D800FDD074 /* Engines */,
+				026A54E329F43F340026310C /* Blocks */,
+				0296339329CDACD900A05B01 /* Views */,
+				0296339229CDACD200A05B01 /* Models */,
+				0205401429CEE1E700F7727C /* GoView.swift */,
 				0257B26A29A27E2700FA1EA9 /* Info.plist */,
-				026CA25A29A0AE1D0005F6E1 /* Saridakis_vjotApp.swift */,
+				026CA25A29A0AE1D0005F6E1 /* vjotApp.swift */,
 				026CA25C29A0AE1D0005F6E1 /* ContentView.swift */,
 				026CA25E29A0AE1F0005F6E1 /* Assets.xcassets */,
 				026CA26029A0AE1F0005F6E1 /* Preview Content */,
@@ -1121,29 +1135,6 @@
 			path = BreedViews;
 			sourceTree = "<group>";
 		};
-		0296339129CDAC9500A05B01 /* capstone */ = {
-			isa = PBXGroup;
-			children = (
-				026A551B29F47E210026310C /* Sins */,
-				026687CF29E70F2000AEF2B6 /* Jewels */,
-				0205403729CEF69F00F7727C /* Consts */,
-				0263DE0729DDB9CC00FDD074 /* Data */,
-				027560D42A00ED2400526455 /* Finance */,
-				02E71F6A29E160B700829CE4 /* Tools */,
-				02C7CE2629EA7E470012E305 /* UIUX */,
-				02F8BEC129FD19210075F05A /* Compass */,
-				02F8BEC229FD19310075F05A /* Setup */,
-				02D32A6629E073A5001A63B1 /* Gigs */,
-				0263DE0829DDB9D800FDD074 /* Engines */,
-				026A54E329F43F340026310C /* Blocks */,
-				0296339329CDACD900A05B01 /* Views */,
-				0296339229CDACD200A05B01 /* Models */,
-				02778B7629EFD778008D442C /* HomeView.swift */,
-				0205401429CEE1E700F7727C /* CapstoneView.swift */,
-			);
-			path = capstone;
-			sourceTree = "<group>";
-		};
 		0296339229CDACD200A05B01 /* Models */ = {
 			isa = PBXGroup;
 			children = (
@@ -1166,6 +1157,7 @@
 				0279E15A29F6D0CD008EDD7A /* InfoViews */,
 				025A31FE29ED609C008D54CD /* ImageViews */,
 				028B7CF529DE009800ED7374 /* BreedViews */,
+				02778B7629EFD778008D442C /* HomeView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -1596,7 +1588,7 @@
 				02E0A23D29F5298900E75D04 /* CatDeleteDetailsView.swift in Sources */,
 				026A551029F4732C0026310C /* CatSaveView.swift in Sources */,
 				02D32A6829E073B6001A63B1 /* VeterinarianGig.swift in Sources */,
-				0205401529CEE1E700F7727C /* CapstoneView.swift in Sources */,
+				0205401529CEE1E700F7727C /* GoView.swift in Sources */,
 				0205403129CEF49500F7727C /* FoldedDogAPIImageModel.swift in Sources */,
 				02E0A27929F5912300E75D04 /* FoldedAPIFanouriteStatusModels.swift in Sources */,
 				0288473129FB11A0002B353C /* PatientAccountView.swift in Sources */,
@@ -1721,7 +1713,7 @@
 				025948EC29FBF0F8001E1CAA /* InstructionPetFotterView.swift in Sources */,
 				02C85FD929CF446500B40B3C /* APICategoriesFunctons.swift in Sources */,
 				026A550E29F470E40026310C /* DogSaveView.swift in Sources */,
-				026CA25B29A0AE1D0005F6E1 /* Saridakis_vjotApp.swift in Sources */,
+				026CA25B29A0AE1D0005F6E1 /* vjotApp.swift in Sources */,
 				0254870729F84E85006352C0 /* InstructionsIncFooterView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

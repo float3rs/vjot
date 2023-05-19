@@ -9,13 +9,11 @@ import SwiftUI
 
 struct ContentView: View {
         
-    // edit CapstoneView to select between
+    // edit GoView to select between
     // production and developement mode
     
     var body: some View {
-        CapstoneView()          //   COMMENT OUT FOR HOMEWORK
-        // HomeworkView()       // UNCOMMENT     FOR HOMEWORK
-        
+        GoView()
     }
 }
 

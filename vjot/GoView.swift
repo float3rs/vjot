@@ -1,5 +1,5 @@
 //
-//  CapstoneView.swift
+//  GoView.swift
 //  Saridakis-vjot
 //
 //  Created by Nikolaos Saridakis on 2023-03-25.
@@ -7,9 +7,9 @@
 
 import SwiftUI
 
-struct CapstoneView: View {
+struct GoView: View {
     @State var debug: Bool = true                   //  TRUE: DEVELOPEMENT MODE
-                                                    // FALSE: PRODUCTION   MODE
+                                                    // FALSE:   PRODUCTION MODE
     @StateObject var router = Router()
     @StateObject var breedEngine = BreedEngine()
     @StateObject var categoryEngine = CategoryEngine()
@@ -91,7 +91,7 @@ struct Prelauncher: View {
         
         switch state {
         case 1:
-            CapstoneView()
+            GoView()
         case 2:
             Bootstrapper()
         case 3:
