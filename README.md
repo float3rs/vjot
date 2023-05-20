@@ -22,18 +22,8 @@ Consider the following scenario: You, a seasoned veterinarian, keep a veterinary
 
 <br>
 
-TRAILERS
-
-[<img src='assets/playYellow.png'>](https://youtu.be/cxO0lCeWlOw)
-[<img src='assets/playCyan.png'>](https://youtu.be/gZOrZ3DmCno)
-[<img src='assets/playCyan.png'>](https://youtu.be/k74aXo58SiU)
-
-VOICEOVERS
-
-[<img src='assets/playMagenta.png'>](https://youtu.be/TYFs4HaGw3s)
-[<img src='assets/playMagenta.png'>](https://youtu.be/UQEGdpiK1j4)
-
-<br>
+[<img src='assets/video.png'>](https://youtu.be/TYFs4HaGw3s)
+[<img src='assets/video.png'>](https://youtu.be/UQEGdpiK1j4)
 
 
 ### JOTTING FEATURES
