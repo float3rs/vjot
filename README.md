@@ -20,11 +20,9 @@ Consider the following scenario: You, a seasoned veterinarian, keep a veterinary
 
 **vjot** also acts as a frontend client that consumes entirely both [The Cat API](https://www.thecatapi.com) and [The Dog API](https://www.thecatapi.com) services, providing an escape from everyday stress in the seldom cases of downtime or after the veterinarian's working hours. Exploiting the full functionality supplied by these APIs, one can browse cats' and dogs' breeds and learn more on them, search for cat or dog images (including their classification provided by a pattern recognition vendor) applying filtered parameters, fav and upvote/downvote any of them, download and store them at his/her Photos Library, upload his/her own, and later delete the ones uploaded.
 
-<br>
-
 [<img src='assets/video.png'>](https://youtu.be/TYFs4HaGw3s)
 [<img src='assets/video.png'>](https://youtu.be/UQEGdpiK1j4)
-
+[<img src='assets/video.png'>](https://youtu.be/UQEGdpiK1j4)
 
 ### JOTTING FEATURES
 
@@ -161,6 +159,9 @@ User is able to fetch the list of sources provided by the utilized API service. 
 12. The app includes a custom icon and a custom display name. Styled text properties and animations are also included, as implemented for example in the ```/capstone/Views/ClinicViews/AboutViews/AboutView.swift``` and ```/capstone/Views/ImageViews/DogImageViews/DogImageUploadViews/DogImageUploadView.swift``` files respectively. The app does not include an onboarding screen when it's launched, although one is provided when users choose to optionally create their accounts. This was deliberate and by design, as the app aspires to be utilitarian, used commonly under pressure.
 
 <br>
+
+[<img src='assets/barYellow.png'>](https://youtu.be/TYFs4HaGw3s)
+[<img src='assets/barYellow.png'>](https://youtu.be/UQEGdpiK1j4)
 
 ## BOOTSTRAPPING PROCESS
 
