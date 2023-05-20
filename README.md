@@ -32,7 +32,7 @@ Consider the following scenario: You, a seasoned veterinarian, keep a veterinary
 <img src='assets/papers.png' width="384" height="192">
 <br>
 
-***...about users:***
+***...on users:***
 
 Users are subtly encouraged through symbology and gracefully limited functionality to create an account and activate their session each time they use the app. The app is meant to be used on devices shared between practitioners; jotter instances are cooperative, for containing details that are meant to be shared. There's no need for securing user accounts from being accessed by other onboarded users - on the contrary. Therefore no passwords or keyphrases are implemented or required. In any case: 
 
@@ -51,7 +51,7 @@ Users are subtly encouraged through symbology and gracefully limited functionali
 
 <br>
 
-***...about patients:***
+***...on patients:***
 
 
 In the app's context, patients are of course companion animals. A listing of their records is provided, with the ability to edit their details in any time. Creating animal records, provides users with the ability to associate specific patients with specific medical incidents, utilizing pickers in both the jotter and the incident section views. There's no such obligation though. Also, it is kindly noted that the companion animal records are actually based to the European passport's for companion animals specifications; a lot of fields are therefore available for the practitioners to fill, if they need to do so. Specifically:
@@ -66,7 +66,7 @@ In the app's context, patients are of course companion animals. A listing of the
 
 <br>
 
-***...about incidents:***
+***...on incidents:***
 
 When launching the app, the user immediately gets to the jotter view, displaying the last occurring incident dealt at the practice. No welcome screen is utilized. The jotter preview provides the following functionality:
 
