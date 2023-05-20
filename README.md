@@ -20,9 +20,9 @@ Consider the following scenario: You, a seasoned veterinarian, keep a veterinary
 
 **vjot** also acts as a frontend client that consumes entirely both [The Cat API](https://www.thecatapi.com) and [The Dog API](https://www.thecatapi.com) services, providing an escape from everyday stress in the seldom cases of downtime or after the veterinarian's working hours. Exploiting the full functionality supplied by these APIs, one can browse cats' and dogs' breeds and learn more on them, search for cat or dog images (including their classification provided by a pattern recognition vendor) applying filtered parameters, fav and upvote/downvote any of them, download and store them at his/her Photos Library, upload his/her own, and later delete the ones uploaded.
 
-[<img src='assets/video.png'>](https://youtu.be/TYFs4HaGw3s)
-[<img src='assets/video.png'>](https://youtu.be/UQEGdpiK1j4)
-[<img src='assets/video.png'>](https://youtu.be/UQEGdpiK1j4)
+[<img src='assets/video.png'>](https://youtu.be/cxO0lCeWlOw)
+[<img src='assets/video.png' width="96" height="96" >](https://youtu.be/k74aXo58SiU)
+[<img src='assets/video.png' width="96" height="96">](https://youtu.be/gZOrZ3DmCno)
 
 ### JOTTING FEATURES
 
@@ -160,7 +160,7 @@ User is able to fetch the list of sources provided by the utilized API service. 
 
 <br>
 
-## VOICEOVERS
+### VOICEOVERS
 
 [<img src='assets/videoYellow.png'>](https://youtu.be/TYFs4HaGw3s)
 [<img src='assets/videoYellow.png'>](https://youtu.be/UQEGdpiK1j4)
