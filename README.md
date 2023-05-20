@@ -143,8 +143,8 @@ User is able to fetch the list of sources provided by the utilized API service. 
 
 <br>
 
-[<img src='assets/barYellow.png'>](https://youtu.be/TYFs4HaGw3s)
-[<img src='assets/barYellow.png'>](https://youtu.be/UQEGdpiK1j4)
+[<img src='assets/videoYellow.png'>](https://youtu.be/TYFs4HaGw3s)
+[<img src='assets/videoYellow.png'>](https://youtu.be/UQEGdpiK1j4)
 
 ## BOOTSTRAPPING PROCESS
 
